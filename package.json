@@ -1,0 +1,11 @@
+{
+  "name": "mmm-motiondisplay",
+  "version": "0.1.0",
+  "description": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "request": "2.88.0",
+    "xml2js": "0.4.23"
+  }
+}
